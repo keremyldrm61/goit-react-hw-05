@@ -139,7 +139,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-👉 ...
+👉 https://goit-react-hw-05-black-one.vercel.app/
 
 ---
 
