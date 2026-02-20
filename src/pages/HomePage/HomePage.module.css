@@ -1,0 +1,23 @@
+.container {
+    padding: 20px 0;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.loading,
+.error {
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+}
+
+.error {
+    color: #f44336;
+}

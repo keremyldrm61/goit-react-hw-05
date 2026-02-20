@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    text-align: center;
+}
+
+.title {
+    font-size: 120px;
+    font-weight: 700;
+    color: #f87719;
+    margin: 0;
+}
+
+.text {
+    font-size: 24px;
+    color: #fff;
+    margin: 20px 0;
+}
+
+.link {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #f87719;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: color 0.3s ease;
+}
+
+.link:hover {
+    color: #000;
+}

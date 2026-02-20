@@ -1,0 +1,48 @@
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.item {
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #f87719;
+}
+
+.author {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 10px 0;
+    color: #111;
+}
+
+.content {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.username {
+    font-size: 12px;
+    color: #f87719;
+    margin: 0;
+}
+
+.loading,
+.error,
+.noData {
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.error {
+    color: #f44336;
+}
